@@ -1,3 +1,7 @@
+#!/bin/bash
+# Wordgrinder_installer 
+# xastherion 2018
+
 # xcode intallation --> ask for accept (please accept!) 
 # ----------------------------------------------------------------------
 xcode-select --install
