@@ -29,7 +29,7 @@ echo '~/bin/wordgrinder'>>~/Desktop/wordgrinder.command
 chmod +x ~/Desktop/wordgrinder.command
 
 # for maximal enjoy, put the wordgrinder icon in your .command
-# go to http://cowlark.com/sky-cow.png
+# go to https://github.com/davidgiven/wordgrinder/blob/master/extras/icon.png
 # copy image
 # go to wordgrinder.command and show "properties"
 # then click on icon and paste!
